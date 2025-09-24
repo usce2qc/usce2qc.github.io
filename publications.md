@@ -6,10 +6,10 @@ title: Publications
 
 1. S.Distefano, M.Ziiatdinov. “The 3D Continuum spanning Edge to Cloud across Classical and Quantum Computing” 
 2. S.Distefano, M.Ziiatdinov. “A Recipe for Data-driven Medicine: Data Encoding, Machine Learning, and Quantum Computing” 
-3. Roberto Stassi, Shilan Abo, Daniele Lamberto, Ye-Hong Chen, Adam Miranowicz, Salvatore Savasta, Franco Nori. “Noise Protected Logical Qubit in a Open Chain of Superconducting Qubits with Ultrastrong Interactions”, arXiv:2509.17903 (2025).
+3. Roberto Stassi, Shilan Abo, Daniele Lamberto, Ye-Hong Chen, Adam Miranowicz, Salvatore Savasta, Franco Nori. “Noise Protected Logical Qubit in a Open Chain of Superconducting Qubits with Ultrastrong Interactions”, [arXiv:2509.17903](https://arXiv.org/abs/2509.17903) (2025).
 4. Shuai-Peng Wang, Alberto Mercurio, Alessandro Ridolfo, Yuqing Wang, Mo Chen, Tiefu Li, Franco Nori, Salvatore Savasta, J. Q. You. ”Strong coupling between a single photon and a photon pair”, [arXiv:2401.02738v2](https://arxiv.org/abs/2401.02738v2) (2024).
-5. Daniele Lamberto, Gabriele Orlando, Salvatore Savasta. ”Superradiant Quantum Phase Transition in Open Systems: System-Bath Interaction at the Critical Point”, arXiv:2411.16514v2 (2024).
-6. Andrea Zappalá, Alberto Mercurio, Daniele Lamberto, Samuel Napoli, Omar Di Stefano, Salvatore Savasta. ”From Few to Many Emitters Cavity QED: Energy Levels and Emission Spectra From Weak to Deep-Strong Coupling”, arXiv:2506.18763v1, (2025).
+5. Daniele Lamberto, Gabriele Orlando, Salvatore Savasta. ”Superradiant Quantum Phase Transition in Open Systems: System-Bath Interaction at the Critical Point”, [arXiv:2411.16514v2](https://arXiv.org/abs/2411.16514v2) (2024).
+6. Andrea Zappalá, Alberto Mercurio, Daniele Lamberto, Samuel Napoli, Omar Di Stefano, Salvatore Savasta. ”From Few to Many Emitters Cavity QED: Energy Levels and Emission Spectra From Weak to Deep-Strong Coupling”, [arXiv:2506.18763v1](https://arXiv.org/abs/2506.18763v1), (2025).
 
 ## Published journal papers 
 
