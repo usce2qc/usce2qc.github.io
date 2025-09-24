@@ -28,4 +28,6 @@ The final and conclusive technical report for the USCE2QC project. Its primary p
 
 ## Notebooks and source code
 
-https://github.com/usce2qc/notebooks/
+The repository contains Jupyter notebooks for published articles.
+
+<a href="https://github.com/usce2qc/notebooks/" target="_blank">Link</a>
