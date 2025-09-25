@@ -2,8 +2,8 @@
 title: Team
 ---
 
-- Prof. Roberto Stassi (Principal Investigator - WP1 Leader)
-- Prof. Salvatore Distefano (co-PI - WP1 co-Leader)
+- Prof. Roberto Stassi (Principal Investigator - WP1 Leader) [✉](mailto:roberto.stassi@unime.it)
+- Prof. Salvatore Distefano (co-PI - WP1 co-Leader) [✉](mailto:salvatore.distefano@unime.it)
 - Prof. Salvatore Savasta (WP2 co-Leader)
 - Prof. Omar Di Stefano (WP2 co-Leader)
 - Prof. Rosalba Saija
