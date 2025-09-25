@@ -22,9 +22,9 @@ This effort **resulted** in
 
 Thereby, USCE2Q is aligned with this call research program, mainly addressing hardware and middleware challenges and issues in the development of reliable and dependable QC systems at node and infrastructure levels, in assessing and benchmarking as well as in controlling and monitoring QC systems.
 
-# Advantages
+# Highlights
 
-The USCE2Q project fosters a unique synergy between academic (UniMe) and industrial (SmartMe) partners, both residing in Messina, Sicily. This cross-sector collaboration transcends the divide between theoretical exploration and technological application, establishing a robust foundation for project success. A multidisciplinary team composed of researchers from diverse backgrounds, including physics, computer science, engineering, and mathematics, will drive the project forward. Their expertise, coupled with a proven track record in collaborative research and technology transfer, is a warranty of USCE2Q substantial advancements and success.
+The USCE2Q project fosters a unique synergy between academic ([UniMe](https://unime.it)) and industrial ([SmartMe](https://smartme.io)) partners, both residing in Messina, Sicily. This cross-sector collaboration transcends the divide between theoretical exploration and technological application, establishing a robust foundation for project success. A multidisciplinary team composed of researchers from diverse backgrounds, including physics, computer science, engineering, and mathematics, will drive the project forward. Their expertise, coupled with a proven track record in collaborative research and technology transfer, is a warranty of USCE2Q substantial advancements and success.
 
 Furthermore, this multidisciplinary approach offers compelling advantages:
 - **Reduced Project Risk** - By intertwining academic and industrial perspectives, USCE2Q strategically mitigates risks inherent in purely academic or purely commercial endeavors.
