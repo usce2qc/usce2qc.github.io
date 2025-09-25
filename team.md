@@ -23,6 +23,4 @@ title: Team
 - Dr. Mansur Ziiatdinov
 - Giuseppe La Malfa
 
-[![UniMe](/assets/unime.png)](https://unime.it)
-
-[![SmartMe](/assets/smartme.png)](https://smartme.io)
+[![UniMe](/assets/unime.png)](https://unime.it) [![SmartMe](/assets/smartme.png)](https://smartme.io)
