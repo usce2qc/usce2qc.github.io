@@ -22,3 +22,7 @@ title: Team
 - Dr. Carmelo Filippo Munafò
 - Dr. Mansur Ziiatdinov
 - Giuseppe La Malfa
+
+[![UniMe](/assets/unime.png)](https://unime.it)
+
+[![SmartMe](/assets/smartme.png)](https://smartme.io)
