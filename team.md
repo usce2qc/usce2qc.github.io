@@ -21,3 +21,4 @@ title: Team
 - Dr. Federica Cocuzza
 - Dr. Carmelo Filippo Munafò
 - Dr. Mansur Ziiatdinov
+- Giuseppe La Malfa
