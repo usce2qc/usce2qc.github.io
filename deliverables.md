@@ -28,6 +28,6 @@ The final and conclusive technical report for the USCE2QC project. Its primary p
 
 ## Notebooks and source code
 
-- The <a href="https://github.com/usce2qc/architecture" target="_blank">repository</a> contains an implementation of the platform.
+- The <a href="https://github.com/usce2qc/architecture" target="_blank">repository</a> contains a PoC implementation of the platform.
 - The <a href="https://github.com/usce2qc/notebooks/" target="_blank">repository</a> contains Jupyter notebooks for published articles.
 
